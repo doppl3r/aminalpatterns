@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Aminal Patterns:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Aminal_Patterns_jar</output-path>
+    <root id="archive" name="Aminal Patterns.jar">
+      <element id="module-output" name="Aminal Patterns" />
+    </root>
+  </artifact>
+</component>
